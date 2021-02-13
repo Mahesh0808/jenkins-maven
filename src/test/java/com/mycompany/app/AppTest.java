@@ -24,12 +24,12 @@ public class AppTest
         assertTrue( true );
     }
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue2()
     {
         assertTrue( true );
     }
     @Test
-    public void shouldAnswerWithTrue()
+    public void shouldAnswerWithTrue3()
     {
         assertTrue( true );
     }
